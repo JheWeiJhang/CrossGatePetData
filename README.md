@@ -11,7 +11,7 @@ https://www.bluecg.net/forum.php?mod=viewthread&tid=147093
 &emsp;XXXX=AAAA;B;CC;DD;EE;FF;GG  
 &emsp;&emsp;AAAA  
 &emsp;&emsp;&emsp;寵物名稱  
-&emsp;&emsp;B為種族
+&emsp;&emsp;B為種族  
 &emsp;&emsp;&emsp;0為野獸  
 &emsp;&emsp;&emsp;1為不死  
 &emsp;&emsp;&emsp;2為飛行  
