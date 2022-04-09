@@ -28,3 +28,7 @@ XXXX=AAAA;B;CC;DD;EE;FF;GG
 該Git的Repo使用方式如下
 1.把這邊的的config.ini的檔案內容全部複製到C:\Program Files (x86)\CGCalculator\config.ini檔案內，存檔離開。
 2.重新啟動CGCalculator.exe就可以使用新的檔案內容。
+
+為什麼選用火箭牌算檔器?
+1. 鼠王算檔器被windows內建的掃毒認為是有問題的，當然你可以選擇加入安全區域，無視這個警告直接使用
+2. 魔物觀測者新增的寵物超過150個之後的都無法顯示出來，使用上比較麻煩
