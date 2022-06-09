@@ -2,7 +2,7 @@
 針對火箭牌算檔器，提供魔力寶貝永恆初心版本的寵物資訊  
 
 檔案下載可以從這裡：  
-http://cgsword.com/download.htm 的 http://cgsword.com/download/CGCalculator.msi  
+http://cgsword.com/download.htm 的火箭牌下載
 主要使用方式可以參考下面這個網站  
 https://www.bluecg.net/forum.php?mod=viewthread&tid=147093  
 
@@ -26,7 +26,7 @@ https://www.bluecg.net/forum.php?mod=viewthread&tid=147093
 &emsp;&emsp;&emsp;分別為體力;力量;強度;速度;魔法  
 
 該Git的Repo使用方式如下  
-1.把這邊的的config.ini的檔案內容全部複製到C:\Program Files (x86)\CGCalculator\config.ini檔案內，存檔離開。  
+1.把這邊的的config.ini"檔案"直接複製到到C:\Program Files (x86)\CGCalculator\  
 2.重新啟動CGCalculator.exe就可以使用新的檔案內容。  
   
 為什麼選用火箭牌算檔器?  
